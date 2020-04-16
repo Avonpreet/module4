@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+  box-sizing: border-box; 
+}
+
+html, 
+body {
+  height: 100%; 
+}
+
+html {
+  font-size: 10px; 
+}
+
+body { 
+  background-color: lightpink; 
+}
+
+.container {
+  color: #fff; 
+}
+
+
+h1 {
+  font-size: 7rem; 
+}
+
+h2, 
+h3 {
+  font-size: 4rem;
+    margin: auto;  
+}
+
+p, 
+li {
+font-size: 2.5rem;
+    margin: auto;}
+
+.container {
+  width:90%; 
+  margin-left:auto; 
+  margin-right: auto; 
+}
+
+section {
+  display:grid; 
+  justify-content:space-between; 
+}
+
+section img {
+  display:block; 
+  margin: 0 auto; 
+}
+
+
+
+

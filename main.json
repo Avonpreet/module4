@@ -1,0 +1,49 @@
+{
+  "avlElec": [
+    {
+      "name": "Mobile",
+      "price" : 1100, 
+      "features": [
+        "5G Enables",
+        "Internatinal unlock"
+      ],
+      "picture": "Mobile.jpg"
+    },
+    {
+      "name": "Laptop",
+      "price" : 1600, 
+      "features": [
+        "LED display",
+        "intel i7 processor"
+      ],
+      "picture": "Laptop.jpg"
+    },
+    {
+      "name": "Tablet",
+      "price" : 250, 
+      "features": [
+        "12\" screen",
+        "fast charging enabled"
+      ],
+      "picture": "Tablet.jpg"
+    },
+    {
+      "name": "Projector",
+      "price" : 700, 
+      "features": [
+        "Long life lens",
+        "Max brightness"
+      ],
+      "picture": "Projector.jpg"
+    },
+    {
+      "name": "Desktop",
+      "price" : 1300, 
+      "features": [
+        "With speakers",
+        "38\" Screen resolution"
+      ],
+      "picture": "Desktop.jpg"
+    }
+  ]
+}
