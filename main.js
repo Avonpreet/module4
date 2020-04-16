@@ -20,6 +20,9 @@ function avlElec(jsonObj) {
         let br = document.createElement('br');
         let section = document.querySelector('section');
         img.setAttribute('src', 'https://avonpreet.github.io/lab4/img/' + avlElec[i].picture);
+          img.setAttribute('alt', avlElec[i].name);
+        img.setAttribute('height', '400px');
+        img.setAttribute('width', '400px');
         h2.textContent = avlElec[i].name;
         p.textContent = 'Price: ' +
             avlElec[i].price;
